@@ -27,7 +27,7 @@ The FLEXotendon Glove hand exoskeleton system (PATENT PENDING) is a soft robotic
 
 ## Integrated Self-sealing Suction Cups
 <img align="left" src="https://phillipytran.github.io/images/website suction cup.png" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
-
+This is a variant of the FLEXotendon Glove in which self-sealing suction cups are integrated into the exoskeleton structure to provide an alternative set of grasping modalities. The suction cups are entirely 3D-printed through the use of a polyjet printer, which allows the suction cups to be fabricated in a single print while also combining soft and rigid plastics to form the requisite compliant structure. Layered sections of low and high durometer plastic are merged to create a framework that provides suction when compressed and maintains the vacuum seal when lifted. The suction cups also incorporate a gimbal mechanism that allows for a greater range of suction cup motion during grasping, allowing a degree of adaptability during user motion. Each suction cup weighs 0.9 g and can lift up to 0.4 kg, while retaining a relatively small volume with a diameter of 14 mm and a height of 12 mm.
 
 ### Publications
 * S. Jeong, <b>P. Tran (co-first author)</b>, and J.P. Desai, "Integration of Self-Sealing Suction Cups on the FLEXotendon Glove-II Robotic Exoskeleton System," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2020.2965895
