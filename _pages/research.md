@@ -10,11 +10,13 @@ analytics: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=q1Sd7GYAAAAJ&hl=en).
 ## FLEXotendon Glove Series
-<img align="left" src="https://phillipytran.github.io/images/website exo picture1.png" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
-<img align="left" src="https://phillipytran.github.io/images/website exo picture2.jpg" alt="Photo" style="width: 400px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://phillipytran95.github.io/images/website exo picture1.png" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
+<img align="left" src="https://phillipytran95.github.io/images/website exo picture2.jpg" alt="Photo" style="width: 400px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 The FLEXotendon Glove hand exoskeleton system (PATENTED) is a soft robotic assistive hand exoskeleton intended for individuals with hand dysfunction. High-consistency rubber silicone is used to create an exact mold of the user's hand, resulting in a flexible, form-fitting exoskeleton that is uniquely suited for each individual user. The exoskeleton uses mimics the tendons in human fingers through a bioinspired tendon routing strategy, providing active flexion and extension to the thumb, index finger, and middle finger. Custom tendon tension sensors measure tendon tension during exoskeleton operation and provide this data as force feedback to an admittance controller implementation, allowing for an adaptive control strategy. A smartphone app is used as the user interface, giving the user the ability to command the exoskeleton via voice control (natural language processing) or to calibrate the exoskeleton system. The smartphone communicates with the exoskeleton through Bluetooth and utilizes cloud storage or a localhost server to hold unique user profiles and their associated custom voice commands.
 
 ### Publications:
+* <b>P. Tran</b>, D. Elliott, K.R. Herrin, and J.P. Desai, "Towards comprehensive evaluation of the FLEXotendon glove-III: a case series evaluation in pediatric clinical cases and able-bodied adults,” in Biomedical Engineering Letters, doi: 10.1007/s13534-023-00280-0.
+* <b>P. Tran</b>, D. Elliott, K.R. Herrin, S. Bhatia, and J.P. Desai, "Evaluation of the FLEXotendon glove-III through a human subject case study,” in Biomedical Engineering Letters, doi: 10.1007/s13534-023-00262-2.
 * <b>P. Tran</b>, S. Jeong (co-first author), F. Lyu, K.R. Herrin, S. Bhatia, D. Elliott, S. Kozin, and J.P. Desai, "FLEXotendon Glove-III: Voice-Controlled Soft Robotic Hand Exoskeleton with Novel Fabrication Method and Admittance Grasping Control,” in IEEE Transactions on Mechatronics, doi: 10.1109/TMECH.2022.3148032.
 * <b>P. Tran</b>, S. Jeong (co-first author), K.R. Herrin, and J.P. Desai, "A Review: Hand Exoskeleton Systems, Clinical Rehabilitation Practices, and Future Prospects,” in IEEE Transactions on Medical Robotics and Bionics, doi: 10.1109/TMRB.2021.3100625.
 * <b>P. Tran</b>, S. Jeong, K.R. Herrin, S. Bhatia, S. Kozin, and J. P. Desai, "FLEXotendon Glove-III: Soft Robotic Hand Rehabilitation Exoskeleton for Spinal Cord Injury," in 2021 IEEE International Conference on Robotics and Automation (ICRA), Xian, China, 2021.
@@ -27,7 +29,7 @@ The FLEXotendon Glove hand exoskeleton system (PATENTED) is a soft robotic assis
 
 
 ## Integrated Self-sealing Suction Cups
-<img align="left" src="https://phillipytran.github.io/images/website suction cup.png" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
+<img align="left" src="https://phillipytran95.github.io/images/website suction cup.png" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
 This is a variant of the FLEXotendon Glove in which self-sealing suction cups are integrated into the exoskeleton structure to provide an alternative set of grasping modalities. The suction cups are entirely 3D-printed through the use of a polyjet printer, which allows the suction cups to be fabricated in a single print while also combining soft and rigid plastics to form the requisite compliant structure. Layered sections of low and high durometer plastic are merged to create a framework that provides suction when compressed and maintains the vacuum seal when lifted. The suction cups also incorporate a gimbal mechanism that allows for a greater range of suction cup motion during grasping, allowing a degree of adaptability during user motion. Each suction cup weighs 0.9 g and can lift up to 0.4 kg, while retaining a relatively small volume with a diameter of 14 mm and a height of 12 mm.
 
 ### Publications
