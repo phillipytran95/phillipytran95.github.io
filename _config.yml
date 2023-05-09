@@ -11,9 +11,9 @@ title                    : "Phillip Tran"
 title_separator          : "-"
 name                     : &name "Phillip Tran"
 description              : &description "PhD Candidate in Bioengineering at the Georgia Institute of Technology"
-url                      : https://phillipytran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://phillipytran95.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "phillipytran.github.io"
+repository               : "phillipytran95.github.io/website/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "phillipytran"
+  github           : "phillipytran95"
   google_plus      :
   keybase          :
   instagram        :
